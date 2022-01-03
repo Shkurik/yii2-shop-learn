@@ -1,0 +1,7 @@
+.idea
+docker/.env
+/docker/data/db/mysql/*
+/docker/data/lock/*.lock
+/docker/data/logs/mysql/*.log
+/docker/data/logs/nginx/*.log
+/docker/data/logs/php/*.log
