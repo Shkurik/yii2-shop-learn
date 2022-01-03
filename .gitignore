@@ -5,3 +5,5 @@ docker/.env
 /docker/data/logs/mysql/*.log
 /docker/data/logs/nginx/*.log
 /docker/data/logs/php/*.log
+
+shop/vendor
